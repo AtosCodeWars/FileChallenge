@@ -1,0 +1,4 @@
+There are two different versions of a quote, tech.txt, and technology.txt. 
+
+The 7th character of the solution is the first character in which the two files differ.
+And the 8th character of the solution is the second character in which the two files differ.

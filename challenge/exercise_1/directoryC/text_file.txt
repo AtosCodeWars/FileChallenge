@@ -1,0 +1,1 @@
+The ASCII number for the fourth and fifth character of the solution is the byte size of the other file in this directory (directoryC)

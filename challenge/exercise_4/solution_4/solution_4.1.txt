@@ -1,0 +1,2 @@
+For 9th character of the solution you'll have to search for the word 'server' on the cloud.txt file.
+The answer will be the first character of the output.

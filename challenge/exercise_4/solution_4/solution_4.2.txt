@@ -1,0 +1,2 @@
+The 10th character of the solution is the last character of the first word of the third line in the alphabetically sorted file ai.txt.
+The 11th character of the solution is the first character of the first word of the fourth line in the alphabetically sorted file ai.txt.

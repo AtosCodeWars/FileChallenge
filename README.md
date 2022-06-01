@@ -4,6 +4,8 @@
 
 As you can see, there’s a directory tree that you’ll have to navigate to find the correct letter order for the mystery word.
 
+
+
 Inside the different folders you’ll sometimes find the answer you are looking for right away, and some other times you’ll have to do something extra to get to the answer. Everything can be done with bash commands.
 
 When you find all the letters to the mystery word, go back to the Code Wars page and submit the word you found to get the link to the next challenge.
@@ -37,3 +39,6 @@ Good luck!
 - Sort a file
   
   `sort <filename>`
+
+- Open tar file
+  `tar -xvf <filename>`

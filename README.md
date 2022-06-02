@@ -20,7 +20,10 @@ Good luck!
    `ls`
 - Search inside a text
   
-  `grep`
+  `grep <word> <filename>`
+- Run .sh program
+  
+  `soruce <filename>`
 - Change directory
   
   `cd`
@@ -36,9 +39,13 @@ Good luck!
 - Flag to show hidden files 
   
   `-a`
+- Flag for showing size of files 
+  
+  `-l`
 - Sort a file
   
   `sort <filename>`
 
 - Open tar file
+
   `tar -xvf <filename>`
